@@ -90,8 +90,8 @@ li{
 }
 .photo{
     position: absolute;
-    top: 150px;
-    left: 800px;
+    top: 0px;
+    right: 70px;
     
     z-index: -1;
 }
